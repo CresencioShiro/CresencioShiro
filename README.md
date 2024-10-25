@@ -104,15 +104,20 @@
  - 1600W 80 Plus Titanium 
  - Corsair 7000D Airflow
  - Asus TUF VG289Q
+ - FPS 400+
+ - Screen Hertz: 240Hz
 
 ____________________________________________
 - Lenovo ThinkPad X1 Extreme Gen 6
-- Intel Core i7-13700H or Core i9-13900H
+- Intel Core i5
 - NVIDIA GeForce RTX 3050 Ti (6GB GDDR6)
 - 32GB DDR5 (upgradable to 64GB)
-- 1TB PCIe NVMe SSD (expandable)
-- 16-inch 2560x1600 (2.5K) display
-- 90Wh Battery
+- 475GB PCIe NVMe SSD
+- 1TB HDD WD
+- 247GB HDD WD
+- 15.6 inch 1920x1080 
+- FPS max: 144-210
+- Screen Hertz: 120Hz
 
 
 :iphone: 
