@@ -120,13 +120,10 @@ ____________________________________________
 - Screen Hertz: 120Hz
 
 
-:iphone: 
-- RealMe C25 PRO
-- Iphone 13
+:iphone: - RealMe C25 PRO , - Iphone 13
 
-:camera: 
-Sony 
-DSLR
+:camera:  Sony , DSLR
+
 
 :microphone: Mic: Shure SM7B
 
@@ -135,5 +132,5 @@ DSLR
 
 <!--START_SECTION:waka-->
 ```txt
-Robotechs - CIT-U
+Robotechs - idek
 
