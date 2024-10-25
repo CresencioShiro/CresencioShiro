@@ -75,9 +75,17 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CresencioShiro/CresencioShiro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+### 🎧 Spotify Playing
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bgtjlrfscflevvoespborj5gta&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/CresencioShiro/count.svg?"  />
@@ -85,6 +93,42 @@
 
 ###
 
-<p align="left">Fun fact: I make music :D</p>
+:computer: PC/Laptop (for Kali):
+- Intel Core i9-14900K
+- NVIDIA GeForce RTX 4090 (24GB GDDR6X)
+- 128GB DDR5-7200 MHz (4 x 32GB)
+ - ASUS ROG Maximus Z790 Extreme
+ - 4TB PCIe 5.0 NVMe SSD
+ - Secondary Storage: 8TB NVMe SSD (PCIe 4.0) or SATA SSD for additional space.
+ - AIO Liquid Cooler like the NZXT Kraken Z73 (for the CPU).
+ - 1600W 80 Plus Titanium 
+ - Corsair 7000D Airflow
+ - Asus TUF VG289Q
 
-###
+____________________________________________
+- Lenovo ThinkPad X1 Extreme Gen 6
+- Intel Core i7-13700H or Core i9-13900H
+- NVIDIA GeForce RTX 3050 Ti (6GB GDDR6)
+- 32GB DDR5 (upgradable to 64GB)
+- 1TB PCIe NVMe SSD (expandable)
+- 16-inch 2560x1600 (2.5K) display
+- 90Wh Battery
+
+
+:iphone: 
+- RealMe C25 PRO
+- Iphone 13
+
+:camera: 
+Sony 
+DSLR
+
+:microphone: Mic: Shure SM7B
+
+
+### :dart: Weekly Focus
+
+<!--START_SECTION:waka-->
+```txt
+Robotechs - CIT-U
+
