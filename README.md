@@ -132,5 +132,5 @@ ____________________________________________
 
 <!--START_SECTION:waka-->
 ```txt
-https://vencord.dev/download/
+
 
