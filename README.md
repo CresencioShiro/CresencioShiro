@@ -93,7 +93,7 @@
 
 ###
 
-:computer: PC/Laptop (for Kali):
+:computer: pc/laptop:  
 - Intel Core i9-14900K
 - NVIDIA GeForce RTX 4090 (24GB GDDR6X)
 - 128GB DDR5-7200 MHz (4 x 32GB)
